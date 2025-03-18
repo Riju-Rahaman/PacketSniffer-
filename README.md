@@ -7,7 +7,7 @@ A lightweight C++ network packet sniffer built using raw sockets on Linux. Captu
 ## 🚀 Features
 - Capture all incoming network packets via raw sockets
 - Parse and display:
-  - Ethernet headers
+  - Ethernet headers 
   - IP headers
   - TCP headers (port, sequence, ack, header length)
   - UDP headers (port, length)
