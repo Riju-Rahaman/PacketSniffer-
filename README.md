@@ -2,7 +2,7 @@
 
 A lightweight C++ network packet sniffer built using raw sockets on Linux. Captures and parses Ethernet, IP, TCP, UDP, and ICMP packets.
 
----
+--- 
 
 ## 🚀 Features
 - Capture all incoming network packets via raw sockets
